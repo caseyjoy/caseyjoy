@@ -2,9 +2,9 @@
 
 #### You may want to see
 ##### The projects I worked on during a frontend Lighthouse Labs course:
-- [https://github.com/caseyjoy/resume](Resume)
-- [https://github.com/caseyjoy/tweeter](Tweeter)
-- [https://github.com/caseyjoy/scheduler](Scheduler)
+- [Resume](https://github.com/caseyjoy/resume)
+- [Tweeter](https://github.com/caseyjoy/tweeter)
+- [Scheduler](https://github.com/caseyjoy/scheduler)
 
 <!--
 **caseyjoy/caseyjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
