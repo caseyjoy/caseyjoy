@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 #### You may want to see
+[The theme generator I'm working on](https://github.com/caseyjoy/generatetheme)
+
 ##### The projects I worked on during a frontend Lighthouse Labs course:
 - [Resume](https://github.com/caseyjoy/resume)
 - [Tweeter](https://github.com/caseyjoy/tweeter)
