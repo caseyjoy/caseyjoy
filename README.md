@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-#### You may want to see
-<!-- [The theme generator I'm working on](https://github.com/caseyjoy/generatetheme) -->
-##### The projects I worked on during a frontend Lighthouse Labs course:
-- [Resume](https://github.com/caseyjoy/resume)
-- [Tweeter](https://github.com/caseyjoy/tweeter)
-- [Scheduler](https://github.com/caseyjoy/scheduler)
-
 <!--
 **caseyjoy/caseyjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
